@@ -1,6 +1,6 @@
 # Reliable UDP Protocol Project
 
-This project demonstrates a simple reliable data delivery protocol built on top of UDP. It uses sequence numbers, acknowledgments, retransmissions, and a proxy that can inject loss and delay to test recovery behavior.
+A simple reliable data delivery protocol built on top of UDP. It uses sequence numbers, acknowledgments, retransmissions, and a proxy that can inject loss and delay to test recovery behavior.
 
 ## Scripts
 
